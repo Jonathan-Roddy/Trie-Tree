@@ -1,0 +1,4 @@
+﻿  TrieTree.cpp
+C:\Users\Jonathan Roddy\source\repos\TrieTree\TrieTree\Trie.h(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jonathan Roddy\source\repos\TrieTree\TrieTree\Trie.h(48,20): warning C4018: '<': signed/unsigned mismatch
+  TrieTree.vcxproj -> C:\Users\Jonathan Roddy\source\repos\TrieTree\Debug\TrieTree.exe
